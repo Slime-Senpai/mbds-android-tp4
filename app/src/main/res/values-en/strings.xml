@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Neighbors</string>
+    <string name="confirmDeleteTitle">Are you sure?</string>
+    <string name="confirmDeleteMessage">Do you really want to delete this Neighbor ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="image">Image</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="address">Address</string>
+    <string name="about">About</string>
+    <string name="image_description">Profile Image</string>
+    <string name="newNeighborTitle">Add a Neighbor</string>
+    <string name="newNeighborCreated">Neighbor created</string>
+    <string name="listNeighborTitle">Neighbors List</string>
+    <string name="errorValidURI">%1$s must be a valid URI</string>
+    <string name="errorIsRequired">%1$s is required</string>
+    <string name="errorMustBeInBetween">%1$s must be between %2$d and %3$d characters</string>
+    <string name="errorValidPhoneNumber">%1$s must be a valid phone number</string>
+    <string name="persist">Persistent</string>
+    <string name="defaultInfo">Default</string>
+    <string name="detailNeighborTitle">Neighbor Detail</string>
+    <string name="makeFavorite">Add to Favorites</string>
+    <string name="removeFavorite">Remove from Favorites</string>
+    <string name="neighborAddedToFavorite">Neighbor added to favorites</string>
+    <string name="neighborRemovedFromFavorite">Neighbor removed from favorites</string>
+</resources>

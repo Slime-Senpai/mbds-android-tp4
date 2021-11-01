@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Voisins</string>
+    <string name="confirmDeleteTitle">Etes vous sur?</string>
+    <string name="confirmDeleteMessage">Voulez-vous vraiment supprimer le voisin ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="image">Image</string>
+    <string name="back">Retour</string>
+    <string name="save">Sauvegarder</string>
+    <string name="name">Nom</string>
+    <string name="phone">Téléphone</string>
+    <string name="website">Site Web</string>
+    <string name="address">Adresse</string>
+    <string name="about">A propos</string>
+    <string name="image_description">Image de Profil</string>
+    <string name="newNeighborTitle">Ajouter un Voisin</string>
+    <string name="newNeighborCreated">Voisin créé</string>
+    <string name="listNeighborTitle">Liste des voisins</string>
+    <string name="errorValidURI">%1$s doit etre une URI valide</string>
+    <string name="errorIsRequired">%1$s est requis</string>
+    <string name="errorMustBeInBetween">%1$s doit etre entre %2$d et %3$d caractères</string>
+    <string name="errorValidPhoneNumber">%1$s doit etre un numéro de téléphone valide</string>
+    <string name="persist">Persistant</string>
+    <string name="defaultInfo">Défaut</string>
+    <string name="detailNeighborTitle">Détail d\'un voisin</string>
+    <string name="makeFavorite">Mettre en Favoris</string>
+    <string name="removeFavorite">Enlever des Favoris</string>
+    <string name="neighborAddedToFavorite">Voisin ajouté aux favoris</string>
+    <string name="neighborRemovedFromFavorite">Voisin supprimé des favoris</string>
+</resources>
